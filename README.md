@@ -1,4 +1,6 @@
-## Hi there 👋
+## Sobre mi 👋
+
+<h2>Conocimientos</h2>
 
 <!--
 **JonathanMoGa/JonathanMoGa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
