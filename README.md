@@ -1,8 +1,6 @@
-<h1 align="center"> Hello, I'm Jonathan 👋 </h1>
-
 ![Banner](github-header-banner.png)
 
-<h2>About me</h2>
+<h1>About me 👇</h1>
 Computer science student
 
 <h2>Knowledge</h2>
