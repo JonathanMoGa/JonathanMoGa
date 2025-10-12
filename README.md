@@ -1,4 +1,4 @@
-![Banner](github-header-banner.png)
+![Banner](github-banner.png)
 
 <h1>About me 👇</h1>
 Computer science student
