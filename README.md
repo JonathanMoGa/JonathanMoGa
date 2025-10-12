@@ -1,5 +1,7 @@
 <h1 align="center"> Hello, I'm Jonathan 👋 </h1>
 
+![Banner](github-header-banner.png)
+
 <h2>About me</h2>
 Computer science student
 
