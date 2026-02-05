@@ -8,7 +8,7 @@ I enjoy building small projects, experimenting with code, and improving my skill
 Here on GitHub, you'll find projects I use to learn, practice, and explore different areas of development.
 
 <h2>Knowledge</h2>
-<h3>Browser</h3>
+<h3>Browsers</h3>
 <div id="buscadores">
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
 <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera" />
