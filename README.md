@@ -30,6 +30,7 @@ Here on GitHub, you'll find projects I use to learn, practice, and explore diffe
 <div id="Tools">
 <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual_box" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual_code" />
+<img src="https://img.shields.io/badge/SQL%20Developer-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Visual_code" />
 </div>
 <h3>Other tools</h3>
 <div id="Other">
