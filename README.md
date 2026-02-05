@@ -1,5 +1,3 @@
-![Banner](github-banner.png)
-
 <h1>About me 👇</h1>
 Hello! I'm Jonathan, an 18-year-old Computer Science student currently studying a Higher Technical Degree in IT.
 I'm passionate about programming and learning how software works under the hood.
